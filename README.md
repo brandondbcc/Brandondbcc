@@ -1,8 +1,7 @@
 <h1 align="center">👥 About Me 👥</h1>
 
 <p align="center">
-  <b>Full‑Stack Developer • FiveM Developer • Modern Web Builder</b><br>
-  <b>Vercel Hosting • Supabase / PostgreSQL • Clean UI & Fast APIs</b>
+  <b>Full‑Stack Developer • FiveM Developer • Clean UI & API Builder</b><br>
 </p>
 
 ---
