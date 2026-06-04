@@ -1,4 +1,4 @@
-<h1 align="center">✨ Hey, I'm Brandon (brandondbcc) ✨</h1>
+<h1 align="center">👥 About Me 👥</h1>
 
 <p align="center">
   <b>Full‑Stack Developer • FiveM Developer • Modern Web Builder</b><br>
